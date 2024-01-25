@@ -5,7 +5,7 @@
 </section>
 
 <section align="center">
-  <a href="https://www.linkedin.com/in/gaelsm/" target="blank">
+  <a href="https://www.linkedin.com/in/gaelsm/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linked In logo" width="20px">
   </a>
 </section>
